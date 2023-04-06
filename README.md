@@ -13,6 +13,8 @@
   #### 😃 Side Projects
   - Electronic Hardware Restoration
   - Circuit Board Design
+  - Learning a new Language!🦉
+
 
 <details>	
  <summary><b><h3> 👨🏻‍💻 Github Stats</b></summary>
