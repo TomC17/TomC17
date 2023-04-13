@@ -3,7 +3,7 @@
  
  
   #### 🛠 Working On
-  - My Final Year Project!
+  - My Final Year Project - A strategy RPG called Novus Conquest, developed with AI tools as part of a study into how the integration of AI tools can affect the workflow of a Game Developer.
   - Steam Deck Frontend Themes
 
   #### 📚 Learning About
