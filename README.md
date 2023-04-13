@@ -1,15 +1,21 @@
 <h1><p>&nbsp;🌊 Hello, I'm Tom.</p>
 <h3 align="left">A software engineer and game development student.</h3>
  
+ 
   #### 🛠 Working On
   - My Final Year Project!
   - Steam Deck Frontend Themes
 
   #### 📚 Learning About
-  - AI Development Technologies
+  - Integration of AI Development Technologies
+  - Web Development
   - Game Translation and Modernisation Techniques
   - Hardware Modifications
-  
+ 
+  ### 🔥 Main projects
+ - https://great-wave-games.com/
+ - https://tomc17.github.io/
+ 
   #### 😃 Side Projects
   - Electronic Hardware Restoration
   - Circuit Board Design
