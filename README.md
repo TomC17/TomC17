@@ -1,5 +1,5 @@
 <h1><p>&nbsp;🌊 Hello, I'm Tom.</p>
-<h3 align="left">A software engineer and game development student.</h3>
+<h3 align="left">A software engineer and game developer.</h3>
  
  
   #### 🛠 Working On
