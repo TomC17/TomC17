@@ -13,13 +13,15 @@
   - Hardware Modifications
  
   ### 🔥 Main projects
- - https://great-wave-games.com/
+ - [Great Wave Games](https://great-wave-games.com/)
  - https://tomc17.github.io/
  
   #### 😃 Side Projects
+  - 🥃[Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool
+  - Learning japanese!🦉
   - Electronic Hardware Restoration
   - Circuit Board Design
-  - Learning a new Language!🦉
+
 
 
 <details>	
