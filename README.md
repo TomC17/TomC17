@@ -13,8 +13,8 @@
   - Hardware Modifications
  
   ### 🔥 Main projects
- - [Great Wave Games](https://great-wave-games.com/)
- - https://tomc17.github.io/
+ - 🌊 [Great Wave Games](https://great-wave-games.com/) - A website hosting information about the games I've developed.
+ - https://tomc17.github.io/ - My portfolio.
  
   #### 😃 Side Projects
   - 🥃[Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool
