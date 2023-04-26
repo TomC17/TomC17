@@ -2,7 +2,7 @@
 <h3 align="left">A software engineer and game developer.</h3>
  
  
-  #### 🛠 Working On
+  #### 🛠 Currently Working On
   - Novus Conquest - A strategy RPG, developed with AI tools as part of a study into how the integration of AI tools can affect the workflow of a Game Developer.
   - Useful websites
   - Steam Deck Frontend Themes
