@@ -4,7 +4,7 @@
  
   #### 🛠 Working On
   - Novus Conquest - A strategy RPG, developed with AI tools as part of a study into how the integration of AI tools can affect the workflow of a Game Developer.
-  - Useful websites.
+  - Useful websites
   - Steam Deck Frontend Themes
 
   #### 📚 Learning About
@@ -21,7 +21,7 @@
   - 🥃[Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool
   - Learning japanese!🦉
   - Electronic Hardware Restoration
-  - Circuit Board Design
+  - Updated circuit boards for old consoles
 
 
 
