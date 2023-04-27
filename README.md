@@ -1,10 +1,14 @@
 <h1><p>&nbsp;🌊 Hello, I'm Tom.</p>
 <h3 align="left">A software engineer and game developer.</h3>
  
+   ### 🔥 Main projects
+ - 🌊 [Great Wave Games](https://great-wave-games.com/) - A website hosting information about the games I've developed.
+ - 👨🏻‍💻 [Metagawa](https://www.metagawa.com/)- My portfolio, all my projects can be found here, big or small.
+  - Novus Conquest - A strategy RPG, developed with AI tools as part of a study into how the integration of AI tools can affect the workflow of a Game Developer.
+
  
   #### 🛠 Currently Working On
-  - Novus Conquest - A strategy RPG, developed with AI tools as part of a study into how the integration of AI tools can affect the workflow of a Game Developer.
-  - Useful websites
+  - New helpful websites and software for myself, like 🥃[Mohidoi](https://mohidoi.com/)!
   - Steam Deck Frontend Themes
 
   #### 📚 Learning About
@@ -13,10 +17,7 @@
   - Game Translation and Modernisation Techniques
   - Hardware Modifications
  
-  ### 🔥 Main projects
- - 🌊 [Great Wave Games](https://great-wave-games.com/) - A website hosting information about the games I've developed.
- - https://tomc17.github.io/ - My portfolio.
- 
+  
   #### 😃 Side Projects
   - 🥃[Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool
   - Learning japanese!🦉
