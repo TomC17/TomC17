@@ -4,7 +4,7 @@
 ## 💻 My Details
 
 - 👨🏻‍💻 [Metagawa](https://www.metagawa.com/) - My personal website, check out all my projects here, big or small.
-- 💼 [Linkedin](https://www.linkedin.com/in/tomc17/) - Connect with me on LinkedIn
+- 💼 [Linkedin](https://www.linkedin.com/in/tomc17/) - Connect with me on LinkedIn.
 
 ## 🔥 Main Projects
 
