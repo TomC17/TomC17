@@ -15,13 +15,14 @@
 
 - 🥃 [Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool.
 - 💻 [Steam Deck Themes](https://github.com/Metagawa/Steam-Deck-Themes) - Custom themes for the Steam Deck.
-- 🕹️ Electronic Hardware Restoration & Updated circuit boards for old consoles.
 - 🦉 [Learning Japanese](https://www.duolingo.com/profile/Metagawa).
+- 🎮 [Godot Experiments](https://github.com/Metagawa/Godot-Experiments) - A repo of prototype games made in Godot 4
 
 ## 📚 Learning About
 
 - 🤖 Integration of AI Development Technologies.
 - 🌍 Game and Software Translation practices.
+- 🕹️ Electronic Hardware Restoration & Updated circuit boards for old consoles.
 
 ## 
 <h3 align="center"><b>:octocat: Github Stats</b></h3>
