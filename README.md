@@ -9,17 +9,17 @@
 ## 🔥 Main Projects
 
 - 🌊 [Great Wave Games](https://great-wave-games.com/) - A website hosting information about the games I've developed.
-- 🗺️ [Novus Conquest](https://store.steampowered.com/app/2410050/Novus_Conquest/) - <em>[Wishlist on Steam](https://store.steampowered.com/app/2410050/Novus_Conquest/)</em> A strategy RPG I'm going to release on steam soon!
+- 🗺️ [Novus Conquest](https://store.steampowered.com/app/2410050/Novus_Conquest/) - <em>[Wishlist on Steam](https://store.steampowered.com/app/2410050/Novus_Conquest/)</em>
 
 ## 😃 Hobby projects
 
 - 🥃 [Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool.
 - 💻 [Steam Deck Themes](https://github.com/Metagawa/Steam-Deck-Themes) - Custom themes for the Steam Deck.
 - 🇯🇵 Learning Japanese
-- 🎮 [Godot Experiments](https://github.com/Metagawa/Godot-Experiments) - A repo of prototype games made in Godot 4
 
 ## 📚 Learning About
 
+- 🎮 Godot
 - 🤖 Integration of AI Development Technologies.
 - 🌍 Game and Software Translation practices.
 - 🕹️ Electronic Hardware Restoration & Updated circuit boards for old consoles.
