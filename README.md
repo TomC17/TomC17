@@ -27,7 +27,6 @@
 ## 
 <h3 align="center"><b>:octocat: Github Stats</b></h3>
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Metagawa&theme=tokyonight" alt="Tom's GitHub Streak" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Metagawa&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=en" alt="Tom's GitHub stats" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metagawa&hide_progress=true&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="Tom's top programming languages" />
   </p>
