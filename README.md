@@ -3,13 +3,7 @@
 
 ## 💻 My Details
 
-- 👨🏻‍💻 [Metagawa](https://www.metagawa.com/) - My personal website, check out all my projects here, big or small.
 - 💼 [Linkedin](https://www.linkedin.com/in/tomc17/) - Connect with me on LinkedIn.
-
-## 🔥 Main Projects
-
-- 🌊 [Great Wave Games](https://great-wave-games.com/) - A website hosting information about the games I've developed.
-- 🗺️ [Novus Conquest](https://store.steampowered.com/app/2410050/Novus_Conquest/) - <em>[Wishlist on Steam](https://store.steampowered.com/app/2410050/Novus_Conquest/)</em>
 
 ## 😃 Hobby projects
 
@@ -20,7 +14,6 @@
 ## 📚 Learning About
 
 - 🎮 Godot
-- 🤖 Integration of AI Development Technologies.
 - 🌍 Game and Software Translation practices.
 - 🕹️ Electronic Hardware Restoration & Updated circuit boards for old consoles.
 
