@@ -3,7 +3,7 @@
 
 ## 💻 My Details
 
-- 💼 [Linkedin](https://www.linkedin.com/in/tomc17/) - Connect with me on LinkedIn.
+- 💼 [Linkedin](https://www.linkedin.com/in/metagawa/) - Connect with me on LinkedIn.
 
 ## 😃 Hobby projects
 
