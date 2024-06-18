@@ -7,7 +7,6 @@
 
 ## 😃 Hobby projects
 
-- 🥃 [Mohidoi](https://mohidoi.com/) - A ひどい Hiragana & Katakana Learning Tool.
 - 💻 [Steam Deck Themes](https://github.com/Metagawa/Steam-Deck-Themes) - Custom themes for the Steam Deck.
 - 🇯🇵 Learning Japanese
 
